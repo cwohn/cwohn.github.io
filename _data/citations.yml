@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-02-18'
+  last_updated: '2026-03-02'
 papers:
   MmLOUxUAAAAJ:3fE2CSJIrl8C:
     citations: 0
     title: '" Are we writing an advice column for Spock here?" Understanding Stereotypes in AI Advice for Autistic Users'
     year: '2026'
   MmLOUxUAAAAJ:9yKSN-GCB0IC:
-    citations: 20
+    citations: 21
     title: Validating a virtual human and automated feedback system for training doctor-patient communication skills
     year: '2023'
   MmLOUxUAAAAJ:IjCSPb-OGe4C:
@@ -30,6 +30,6 @@ papers:
     title: 'Knowurenvironment: an automated knowledge graph for climate change and environmental issues'
     year: '2022'
   MmLOUxUAAAAJ:zYLM7Y9cAGgC:
-    citations: 5
+    citations: 6
     title: 'PITCH: Designing Agentic Conversational Support for Planning and Self-reflection'
     year: '2025'
