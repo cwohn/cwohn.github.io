@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-30'
+  last_updated: '2026-04-01'
 papers:
   MmLOUxUAAAAJ:3fE2CSJIrl8C:
     citations: 0
@@ -30,6 +30,6 @@ papers:
     title: 'Knowurenvironment: an automated knowledge graph for climate change and environmental issues'
     year: '2022'
   MmLOUxUAAAAJ:zYLM7Y9cAGgC:
-    citations: 9
+    citations: 11
     title: 'PITCH: Designing Agentic Conversational Support for Planning and Self-reflection'
     year: '2025'
