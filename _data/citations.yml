@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-20'
+  last_updated: '2026-05-04'
 papers:
   MmLOUxUAAAAJ:3fE2CSJIrl8C:
     citations: 2
     title: '" Are we writing an advice column for Spock here?" Understanding Stereotypes in AI Advice for Autistic Users'
     year: '2026'
   MmLOUxUAAAAJ:9yKSN-GCB0IC:
-    citations: 22
+    citations: 23
     title: Validating a virtual human and automated feedback system for training doctor-patient communication skills
     year: '2023'
   MmLOUxUAAAAJ:IjCSPb-OGe4C:
@@ -16,13 +16,13 @@ papers:
   MmLOUxUAAAAJ:Tyk-4Ss8FVUC:
     citations: 3
     title: '" Having Lunch Now": Understanding How Users Engage with a Proactive Agent for Daily Planning and Self-Reflection'
-    year: '2025'
+    year: '2026'
   MmLOUxUAAAAJ:d1gkVwhDpl0C:
-    citations: 33
+    citations: 36
     title: 'SEER: Sustainable E-commerce with Environmental-impact Rating'
     year: '2023'
   MmLOUxUAAAAJ:hqOjcs7Dif8C:
-    citations: 4
+    citations: 5
     title: 'Managing emotional dialogue for a virtual cancer patient: A schema-guided approach'
     year: '2023'
   MmLOUxUAAAAJ:qjMakFHDy7sC:
