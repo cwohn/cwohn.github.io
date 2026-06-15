@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-08'
+  last_updated: '2026-06-15'
 papers:
   MmLOUxUAAAAJ:3fE2CSJIrl8C:
     citations: 2
@@ -14,7 +14,7 @@ papers:
     title: Demographic feature isolation for bias research using deepfakes
     year: '2022'
   MmLOUxUAAAAJ:Tyk-4Ss8FVUC:
-    citations: 3
+    citations: 4
     title: '" Having Lunch Now": Understanding How Users Engage with a Proactive Agent for Daily Planning and Self-Reflection'
     year: '2026'
   MmLOUxUAAAAJ:d1gkVwhDpl0C:
@@ -22,7 +22,7 @@ papers:
     title: 'SEER: Sustainable E-commerce with Environmental-impact Rating'
     year: '2023'
   MmLOUxUAAAAJ:hqOjcs7Dif8C:
-    citations: 5
+    citations: 6
     title: 'Managing emotional dialogue for a virtual cancer patient: A schema-guided approach'
     year: '2023'
   MmLOUxUAAAAJ:qjMakFHDy7sC:
@@ -30,6 +30,6 @@ papers:
     title: 'Knowurenvironment: an automated knowledge graph for climate change and environmental issues'
     year: '2022'
   MmLOUxUAAAAJ:zYLM7Y9cAGgC:
-    citations: 15
+    citations: 16
     title: 'PITCH: Designing Agentic Conversational Support for Planning and Self-reflection'
     year: '2025'
