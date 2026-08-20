@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a 2nd year PhD student at Virginia Tech, studying HCI+NLP and co-advised by Dr. Eugenia Rho and Dr. Sang Won Lee. My research explores LLM personalization, focusing on how models interpret the social identities of their users. My most recent project, for example, studied how stereotypes about autism influence the advice LLMs give when autistic users ask about social situations.
+I'm a PhD student at Virginia Tech, studying HCI+NLP and co-advised by Dr. Eugenia Rho and Dr. Sang Won Lee. My research explores LLM personalization, focusing on how models interpret the social identities of their users. My most recent project, for example, studied how stereotypes about autism influence the advice LLMs give when autistic users ask about social situations.
 
 Research interests
 - Human-Computer Interaction
@@ -36,6 +36,6 @@ Research interests
 - AI Ethics
 - AI-mediated communication
 
-I received a B.S. in Computer Science from University of Rochester, where I worked in the [Roc-HCI lab](https://roc-hci.com/) under the mentorship of [Dr. Ehsan Hoque](https://hoques.com/). After graduating, I started at Fast Enterprises as an Implementation Consultant, working with the California Department of Tax and Fee Administration, where I fixed bugs encountered by taxpayers in online services and helped update software to comply with evolving tax legislation. After eight months, I recived a transfer to Fast HQ in Colorado, where I built new features for FastCore software. 
+I received a B.S. in Computer Science from University of Rochester, where I worked in the [Roc-HCI lab](https://roc-hci.com/) under the mentorship of [Dr. Ehsan Hoque](https://hoques.com/). After graduating, I started at Fast Enterprises as an Implementation Consultant, working with the California Department of Tax and Fee Administration, where I fixed bugs encountered by taxpayers in online services and helped update software to comply with evolving tax legislation. After eight months, I recived a transfer to Fast HQ in Colorado, where I built new features for FastCore software. I started my PhD at Virginia Tech in Fall 2024.
 
 Outside of research, my hobbies include reading, going on walks, and tabletop games --- especially TTRPGs and Diplomacy. 
